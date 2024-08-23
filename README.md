@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Olabode a.k.a math-poet
+- 👋 Hi, I’m Olabode a.k.a mathpoet
 - 👀 I’m interested in Data Science/Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Capstone projects and all learning activities to help me me improve my skills in landing a data science role
-- 📫 How to reach me Call/Whats'App: +3935338488  email: olabodeomotunde.ibijola@student.univaq.it
+- 📫 How to reach me Call/Whats'App: +2347065344703  email: ibijolamotunde.ibijola@gmail.com
 - Come one, come all, let's learn together!
 
 <!---
